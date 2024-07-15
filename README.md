@@ -24,7 +24,7 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/cinecritique.git
+   git clone https://github.com/jr-dev1001/cinecritique.git
    ```
 
 2. **Navigate to the project directory**:
@@ -41,6 +41,17 @@ To get a local copy up and running, follow these steps:
    ```sh
    ionic serve
    ```
+## for running it in android
+```sh
+ionic run android
+```
+it will generate android build files .
+
+## for running it in ios
+```sh
+ionic run ios
+```
+it will generate xcode build files .
 
 ## Usage
 
