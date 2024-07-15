@@ -4,6 +4,13 @@
 
 CineCritique is a mobile application developed on the Ionic platform using Angular. It allows users to browse and read comprehensive movie reviews, leveraging multiple REST APIs for seamless data retrieval. The application employs responsive design principles to ensure optimal usability across a variety of devices.
 
+
+## Demo 
+
+<video src="./src/assets/CineCritique.mp4" autoplay muted loop>
+  Your browser does not support the video tag.
+</video>
+
 ## Features
 
 - **Movie Reviews**: Display detailed reviews for a wide range of movies with infite scroll.
