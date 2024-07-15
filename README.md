@@ -7,9 +7,10 @@ CineCritique is a mobile application developed on the Ionic platform using Angul
 
 ## Demo 
 
-<video src="./src/assets/CineCritique.mp4" autoplay muted loop>
-  Your browser does not support the video tag.
-</video>
+Here’s a demo of the project in action:
+
+[![Watch the video](https://img.youtube.com/vi/OlQnkLjHD_I/0.jpg)](https://www.youtube.com/watch?v=OlQnkLjHD_I&autoplay=1)
+
 
 ## Features
 
