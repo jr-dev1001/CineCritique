@@ -65,3 +65,26 @@ it will generate xcode build files .
 
 1. **Browse Movie Reviews**: Open the application and navigate through the list of movie reviews.
 2. **Responsive Design**: Enjoy a seamless experience on any device, be it mobile, tablet, or desktop.
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+# Security Policy
+
+## Supported Versions
+
+currently being supported with security updates.
+
+|Software| Version | Supported          |
+|--------| ------- | ------------------ |
+| Angular | ^14.0.x   | :white_check_mark: |
+| @capacitor/core | 4.4.x   | :white_check_mark: |
+| @capacitor/cli | 4.x.x   | :white_check_mark: |
+| @ionic/angular | <6.1.9  | :x:                |
